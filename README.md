@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project tackles the challenge of quantifying police bias and understanding systemic disparities in law enforcement practices. By analyzing patterns of unjustified police actions, it develops a predictive model to forecast the likelihood of bias against individuals based on their demographic and contextual background, such as race, gender, neighborhood, and time of day.
+This project tackles the challenge of quantifying police bias and understanding systemic disparities in law enforcement practices. By analyzing patterns of unjustified police actions, it develops a predictive model to forecast the likelihood of bias against individuals based on their demographic and contextual background, such as race, gender, temporal features, and neighborhood financial health metrics.
 
 ### The Challenge of Quantifying Bias
 
