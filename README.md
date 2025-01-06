@@ -49,7 +49,7 @@ This dataset provides insights into financial health across NYC neighborhoods:
 ![Economic Disparities](./Screenshots/EconomicDisparities.png)
 ![Economic and Race Disparities](./Screenshots/EconomicRaceDisparities.png)
 
-### Predictive Model Performance Summary:
+### Unjustifiable Actions Predictive Model Performance Summary:
 
 ![Model Performance](./Screenshots/ModelPerformance.png)
 
